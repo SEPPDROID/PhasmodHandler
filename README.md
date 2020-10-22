@@ -1,5 +1,5 @@
 # PhasmodHandler
-A MelonLoader Mod for phasmophobia, that's intention was to be a mod handler you can use to make mods more easy. + Discord Rich presence.
+A MelonLoader Mod for phasmophobia, that's intention was to be a mod handler you can use to make developing mods easier. + Discord Rich presence. It's presented to you DOA.
 
 _Jump to the [Install section](#How-to-install)._
 
