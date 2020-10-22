@@ -1,6 +1,8 @@
 # PhasmodHandler
 A MelonLoader Mod for phasmophobia, that's intention was to be a mod handler you can use to make mods more easy. + Discord Rich presence.
 
+_Jump to the [Install section](#How-to-install)._
+
 ##### I do not have time to finish this (or the knowledge for that matter), so here it is for everybody to enjoy!
 
 I was prepairing for the beta branch to be pushed to master. That is because making MONO mods is a piece of cake. But Phasmophobia is changing to the IL2CPP scripting 
@@ -33,11 +35,11 @@ Im in no way a good c# programmer. Im a hobby-programmer so your work will alway
 
 # How to install
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe).
-* Download the latest version of "PhasmodHandlerMod.rar" from the [releases page](https://github.com/SEPPDROID/PhasmodHandler/releases/latest).
+* Download the latest version of ["PhasmodHandlerMod.rar"](https://github.com/SEPPDROID/PhasmodHandler/releases/download/1.1.0/PhasmodHandlerMod.rar) from the [releases page](https://github.com/SEPPDROID/PhasmodHandler/releases/latest).
 * Extract and move PhasmodHandler.dll into the "Mods" folder & the PhasmodHandler folder into your TLD install directory.
 
 ### Alternative install:
-* Download the latest version of "PhasmodLoader.rar" from from the [releases page](https://github.com/SEPPDROID/PhasmodHandler/releases/latest) and extract all the files to you TLD install directory.
+* Download the latest version of ["PhasmodLoader.rar"](https://github.com/SEPPDROID/PhasmodHandler/releases/download/1.1.0/PhasmodLoader.rar) from from the [releases page](https://github.com/SEPPDROID/PhasmodHandler/releases/latest) and extract all the files to you TLD install directory.
 
 > (**Tip:** TLD Install directory can be found by rightclicking Phasmophobia in steam then going to Properties and clicking on browse local files)
 
