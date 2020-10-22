@@ -45,13 +45,13 @@ Im in no way a good c# programmer. Im a hobby-programmer so your work will alway
 
 
 ## Notes:
-PhasmodLoader 1.1.0
+#### PhasmodLoader 1.1.0
 
 Phasmodloader 1.1.0 is based on MelonLoader version 0.2.7.2. Actually the one i uncluded in the release tab is basically the same as the original, i completely stripped all the functions from my original modified MelonLoader install. And the discordRPC function has been made into a mod. So i would just recommend installing the mod + MelonLoader and not the PhasmodLoader. Since MelonLoader will be updated and PhasmodLoader not...
-#### Please note that the RPC mod does not work out of the box on the MONO version of phasmophobia. It will look for the dll in the Managed folder instead of the TLD. An easy fix would be copying the "PhasmodLoader" folder to "Managed" 
+> ##### Please note that the RPC mod does not work out of the box on the MONO version of phasmophobia. It will look for the dll in the Managed folder instead of the TLD. An easy fix would be copying the "PhasmodLoader" folder to "Managed" 
 All credits go to [HerpDerpinstine](https://github.com/HerpDerpinstine/MelonLoader) and "Java Gang" (as far as i can remember). They did outstanding and a amazing job with MelonLoader.
 
-Some pictures:
+#### Some pictures:
 
 ![Captures_discord_rpc](https://downloads.diodematrix.com/u/seppdroid/pictures/phasmod/Capture.JPG)
 ![Captures_discord_rpc](https://downloads.diodematrix.com/u/seppdroid/pictures/phasmod/Capture2.JPG)
