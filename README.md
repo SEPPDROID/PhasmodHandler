@@ -53,7 +53,7 @@ All credits go to [HerpDerpinstine](https://github.com/HerpDerpinstine/MelonLoad
 
 #### Some pictures:
 
-![Captures_discord_rpc](https://downloads.diodematrix.com/u/seppdroid/pictures/phasmod/Capture.JPG)
-![Captures_discord_rpc](https://downloads.diodematrix.com/u/seppdroid/pictures/phasmod/Capture2.JPG)
-![Captures_discord_rpc](https://downloads.diodematrix.com/u/seppdroid/pictures/phasmod/Capture3.JPG)
-![Captures_discord_rpc](https://downloads.diodematrix.com/u/seppdroid/pictures/phasmod/Capture4.JPG)
+![Captures_discord_rpc](https://legacy.downloads.diomtec.com/u/seppdroid/pictures/phasmod/Capture.JPG)
+![Captures_discord_rpc](https://legacy.downloads.diomtec.com/u/seppdroid/pictures/phasmod/Capture2.JPG)
+![Captures_discord_rpc](https://legacy.downloads.diomtec.com/u/seppdroid/pictures/phasmod/Capture3.JPG)
+![Captures_discord_rpc](https://legacy.downloads.diomtec.com/u/seppdroid/pictures/phasmod/Capture4.JPG)
